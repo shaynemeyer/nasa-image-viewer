@@ -2,6 +2,22 @@
 
 Python application that previews images available from the NASA API and gives users the option to download them to their computer.
 
+## Basic Search
+
+![Basic Search](docs/gui-1.png)
+
+---
+
+## Download Dialog
+
+![Download Dialog](docs/gui-2.png)
+
+---
+
+## Advanced Search
+
+![Advanced Search](docs/gui-3.png)
+
 ---
 
 ## Dependencies
